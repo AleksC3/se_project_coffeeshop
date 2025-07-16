@@ -145,12 +145,10 @@ line-height: 30px;
 .reservation__title {
   margin: 0 0 80px;
   text-align:center;
-  font-weight: 500;
   font-size: 44px;
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
-  font-size: 44px;
   line-height: 52px;
 }
 .reservation__form {

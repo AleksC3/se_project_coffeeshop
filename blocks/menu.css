@@ -21,6 +21,7 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  text-align: center;
 }
 .menu__cards{
   margin: 0;
@@ -29,3 +30,4 @@
  display: flex;
  flex-wrap: wrap;
  gap: 100px;
+ justify-content: center;

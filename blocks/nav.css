@@ -19,7 +19,6 @@ left:-50px;
 }
 
 .nav__link {
-/* TODO:remove the underline, change color */
 text-decoration: none;
 font-family: "Inter";
 font-style: normal;
@@ -28,6 +27,7 @@ font-size: 16px;
 line-height: 20px;
 transition: opacity 0.5s;
 cursor: pointer;
+color: black
 }
 .nav__link:hover {
   opacity: 0.5;
